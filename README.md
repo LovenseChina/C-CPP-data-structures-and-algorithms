@@ -1,4 +1,4 @@
-# C-C-data-structures-and-algorithms
+# C-CPP-data-structures-and-algorithms
 1. C/C++ data structures and algorithms implementation without advance language features & with detailed comments. Also you can use it in your projects by just copy-pasting the code or just slightly modifying it to fit your needs.
 2. All the code is well tested.
 3. If any ommission or error is found, please report it to me so I can fix it as soon as possible.
